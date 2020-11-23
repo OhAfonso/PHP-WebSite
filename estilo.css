@@ -1,0 +1,65 @@
+body {
+
+	margin-left: 1%;
+	margin-right: 30%;
+	background-color:#FFF;
+	color: #000;
+	font-family: "Courier New", Courier, monospace;
+
+}     
+
+img {
+
+	width: 640px;
+	height: 480px;
+}
+
+form {
+
+	position: absolute;
+	margin-left: 18%;
+	width: 55%;
+
+}
+
+fieldset {
+
+	padding-left: 1%;
+	border: solid #FF0000;
+
+}
+
+legend {
+
+	padding-left: 2%;
+	padding-right: 2%;
+	font-weight: bold;
+
+}
+
+#para_a_docao {
+
+	margin-top: 3%;
+
+}
+
+#enviar {
+
+	margin-top: 2%;
+	background-color: #FFF;
+	border-radius: 10px;
+	padding: 1% 4%;
+	font-family: "Courier New", Courier, monospace;
+	font-weight: bold;
+}
+
+#limpar {
+
+	margin-left: 2%;
+	background-color: #FFF;
+	border-radius: 10px;
+	padding: 1% 4%;
+	font-family: "Courier New", Courier, monospace;
+	font-weight: bold;
+
+}
